@@ -34,5 +34,29 @@ h5 {
     font-size: 20px;
 }
 img {
-    font-weight: 400;
+   width: 400px;
+   height: 400px;
+   object-fit: cover;
+}
+ol {
+    font-style: oblique;
+    color: blue;
+}
+ul {
+    font-style: oblique;
+    color: blue;
+
+}
+h4 {
+    font-style: oblique;
+    color: darkred;
+
+}
+h5 {
+    font-style: inherit;
+    color: midnightblue;
+}
+em {
+    font-style: inherit;
+    color: blue;
 }
